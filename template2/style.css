@@ -1,0 +1,68 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+}
+form{
+    margin-top: 150px;
+    border: 2px solid goldenrod;
+    width: 550px;
+    height: 650px;
+    border-radius: 100px;
+    box-shadow: 0.34px 5px 4px 3px;
+   margin-bottom: 30px;
+}
+.headline h1{
+    padding-top: 10px;
+  color: hotpink;
+}
+ .Name {
+    padding-top:60px; 
+}
+.Name label{
+    font-size: 25px;
+}
+.Name input{
+    width: 320px;
+    height: 40px;
+}
+.Photo_path{
+    padding-top:60px; 
+}
+.Photo_path label{
+    font-size: 25px;
+}
+.Photo_path input[type=file]{
+    width: 320px;
+    height: 40px;
+}
+.Access_Key {
+    padding-bottom:60px; 
+}
+.Access_Key label{
+    font-size: 25px;
+}
+.Access_Key input{
+    width: 320px;
+    height: 50px;
+}
+.Checkbox {
+    padding-bottom:20px; 
+}
+.Checkbox label{
+    font-size: 23px;
+}
+.Checkbox input{
+    width: 20px;
+    height: 40px;
+}
+form input[ type="submit"]{
+    width: 320px;
+    height: 40px;
+    font-size: 20px;
+   color: grey;
+   border-radius:20px ;
+}

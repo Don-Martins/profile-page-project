@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+}
+form{
+    margin-top: 150px;
+    border: 2px solid goldenrod;
+    width: 380px;
+    height: 400px;
+    border-radius: 100px;
+    box-shadow: 0.34px 5px 4px 3px;
+   margin-bottom: 30px;
+}
+.headline h1{
+    padding-top: 10px;
+  color: hotpink;
+  padding-bottom: 30px;
+}
+.Username label{
+    padding-top: 50px;
+    font-size: 30px;
+}
+.Username input{
+    width: 200px;
+    height: 35px;
+}
+.Access-Key label{
+    padding-top: 30px;
+    font-size: 30px;
+}
+.Access-Key input{
+    width: 200px;
+    height: 30px;
+}
+.Submit input{
+    margin-top: 60px;
+    width: 200px;
+    height: 45px;
+}
+ 
