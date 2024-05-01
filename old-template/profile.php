@@ -15,3 +15,10 @@ foreach ($lines as $line ) {
     }
 }
 ?>
+
+
+
+
+<!--
+    1. display an image
+ -->
