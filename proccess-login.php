@@ -1,4 +1,4 @@
-<?php include("../db/db.php");
+<?php include("db/db.php");
  include("profile.php");
  ?>
 <?php
